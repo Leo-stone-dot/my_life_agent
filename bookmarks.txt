@@ -1,0 +1,234 @@
+https://bitfamous.co.uk/how-to-ask-great-questions/ | How to ask great questions - Bit Famous
+https://claude.com/blog/equipping-agents-for-the-real-world-with-agent-skills | Equipping agents for the real world with Agent Skills \ Anthropic | Claude
+https://github.com/buzhangsan/skills-manager-client | buzhangsan/skills-manager-client
+https://github.com/team-attention/plugins-for-claude-natives/tree/main | team-attention/plugins-for-claude-natives: Claude Code plugins for power users
+https://github.com/avinshe/agentseed | avinshe/agentseed: Generate AGENTS.md from your codebase in one command. Free, instant, no API key
+https://addyosmani.com/blog/agents-md/ | AddyOsmani.com - Stop Using /init for AGENTS.md
+https://x.com/dair_ai/status/2028094014235213898 | (1) DAIR.AI on X: "🥇Top AI Papers of the Week" / X
+
+https://www.youtube.com/watch?v=LpM1dlB12-A | How I Built an AI Council with Claude Code Subagents - YouTube
+https://gist.github.com/emschwartz/e6d2bf860ccc367fe37ff953ba6de66b#file-hn-popular-blogs-2025-opml | The Most Popular Blogs of Hacker News in 2025
+https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering | muratcankoylan/Agent-Skills-for-Context-Engineering: A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
+https://boristane.com/blog/how-i-use-claude-code/ | How I Use Claude Code | Boris Tane
+https://github.com/affaan-m/everything-claude-code/blob/main/skills/continuous-learning-v2/SKILL.md | everything-claude-code/skills/continuous-learning-v2/SKILL.md at main · affaan-m/everything-claude-code
+https://github.com/openclaw/skills/blob/main/skills/rqrqrqrq/research-idea/SKILL.md | skills/skills/rqrqrqrq/research-idea/SKILL.md at main · openclaw/skills
+https://clawhub.ai/skills?sort=downloads&q=twitter | ClawHub
+https://zhuanlan.zhihu.com/p/681840095 | 快速出圈的20个思维模型，终生受益 - 知乎
+https://x.com/ksimback/status/2024180197910864182 | Kevin Simback 🍷 on X: "Give your Openclaw the Memory it Needs (Full Guide)" / X
+https://x.com/shirleyusy/status/2026839850863964486 | Shirley | AI & Crypto on X: "你的专业知识越高,ai对你帮助越大.反而你越业余,ai越会污染你的知识库." / X
+https://github.com/hesamsheikh/awesome-openclaw-usecases/blob/main/usecases/multi-source-tech-news-digest.md | awesome-openclaw-usecases/usecases/multi-source-tech-news-digest.md at main · hesamsheikh/awesome-openclaw-usecases
+https://github.com/hesamsheikh/awesome-openclaw-usecases/blob/main/usecases/multi-agent-team.md | awesome-openclaw-usecases/usecases/multi-agent-team.md at main · hesamsheikh/awesome-openclaw-usecases
+https://clawhub.ai/dinstein/tech-news-digest | Tech News Digest — ClawHub
+https://github.com/Orchestra-Research/AI-Research-SKILLs/blob/main/anthropic_official_docs/skills_overview.md | AI-Research-SKILLs/anthropic_official_docs/skills_overview.md at main · Orchestra-Research/AI-Research-SKILLs
+https://mofang-ai.com/news/detail?id=131772070200814576 | mofang-ai.com
+
+https://github.com/bmad-code-org/BMAD-METHOD | BMAD-METHOD/tools/cli/bmad-cli.js at main · bmad-code-org/BMAD-METHOD
+https://medium.com/@stepan_plotytsia/implementing-ai-enhanced-bdd-a-complete-step-by-step-guide-1dec5dd686d2 | Part 2. Implementing AI-Enhanced BDD: A Complete Step-by-Step Guide | by Stepan Plotytsia | Medium
+https://github.com/heyitsnoah/claudesidian/blob/main/04_Archive/README.md | claudesidian/04_Archive/README.md at main · heyitsnoah/claudesidian
+https://medium.com/@sonnyhuynhb/i-built-an-ai-powered-second-brain-with-obsidian-claude-code-heres-how-b70e28100099 | I Built an AI-Powered Second Brain with Obsidian + Claude Code. Here’s How. | by Sonny Huynh | Jan, 2026 | Medium
+
+https://zhuanlan.zhihu.com/p/1904284252171899918 | 「Vibe Coding」并非粗制滥造的借口——负责任的AI辅助开发实践指南 - 知乎
+https://github.com/ritun16/chain-of-verification | ritun16/chain-of-verification: This repository implements the chain of verification paper by Meta AI
+https://www.reddit.com/r/ClaudeAI/comments/1ojuqhm/10_claude_skills_that_actually_changed_how_i_work/ | 10 Claude Skills that actually changed how I work (no fluff) : r/ClaudeAI
+https://www.reddit.com/r/vibecoding/comments/1plzmmb/how_are_you_planning_large_projects/ | How are you planning large projects? : r/vibecoding
+https://supabase.com/blog/vibe-coding-best-practices-for-prompting | Vibe Coding: Best Practices for Prompting
+https://arxiv.org/pdf/2510.00328 | Vibe Coding in Practice: Motivations, Challenges, and a Future Outlook - a Grey Literature Review
+https://www.reddit.com/r/ClaudeAI/comments/1kivv0w/the_ultimate_vibe_coding_guide/ | The Ultimate Vibe Coding Guide : r/ClaudeAI
+https://zhuanlan.zhihu.com/p/1938235068825997738 | AI × 老旧系统：Vibe Coding 构建 AI 迁移工具，实现 10x 端到端智能迁移 - 知乎
+https://x.com/search?q=%E8%B0%83%E8%AF%95%20UI&src=typed_query&f=top | (7) 调试 UI - Search / X
+https://x.com/liangwenhao3/status/1892187307274342867 | (9) Noise on X: "#twitter #x #扩展 一个优雅的浏览器扩展，可帮助您记录和管理 X （Twitter） 浏览历史记录。您的私人 X 助理 https://t.co/oQfZexbTCL" / X
+https://github.com/Tzyito/x-copilot | Tzyito/x-copilot: An elegant browser extension that helps you record and manage your X (Twitter) browsing history. Your personal X assistant.
+https://browser-use.com/posts/playwright-to-cdp | Closer to the Metal: Leaving Playwright for CDP
+https://pkg.go.dev/github.com/go-rod/go-rod-chinese | rod package - github.com/go-rod/go-rod-chinese - Go Packages
+https://chromewebstore.google.com/detail/trustyou-cdp-extension/kohhmnfmacjbohfkbegeghbkfnoehjpp | TrustYou CDP Extension - Chrome Web Store
+https://chromedevtools.github.io/devtools-protocol/1-3/Runtime/ | Chrome DevTools Protocol - version 1-3 - Runtime domain
+
+https://skillsmp.com/search | Search Agent Skills - Filter by Category & Author | SkillsMP
+https://skillsmp.com/skills/ailabs-393-ai-labs-claude-skills-dist-skills-personal-assistant-skill-md | personal-assistant - Agent Skill by ailabs-393 | SkillsMP
+https://skillsmp.com/skills/mrgoonie-claudekit-skills-claude-skills-context-engineering-skill-md | context-engineering - Agent Skill by mrgoonie | SkillsMP
+https://github.com/FelixFu520/README/blob/main/train/optim/matrix_bp.md | README/train/optim/matrix_bp.md at main · FelixFu520/README
+https://tutorial.math.lamar.edu/classes/de/systemsde.aspx | Differential Equations - Systems of Differential Equations
+https://news.ycombinator.com/item?id=46667572 | Software engineers can no longer neglect their soft skills | Hacker News
+https://www.reddit.com/r/singularity/comments/1pxoawf/paralyzing_complete_unsolvable_existential_anxiety/ | Paralyzing, complete, unsolvable existential anxiety : r/singularity
+https://www.infoq.cn/article/5lxt9ibO77f3HKbITN5s | AI Coding 2025年终盘点：Spec 正在蚕食人类编码，Agent 造轮子拖垮效率，Token成本失控后上下文工程成胜负手 - InfoQ
+https://github.com/affaan-m/everything-claude-code/blob/main/agents/planner.md | everything-claude-code/agents/planner.md at main · affaan-m/everything-claude-code
+
+https://skillsmp.com/search | Search Agent Skills - Filter by Category & Author | SkillsMP
+https://skillsmp.com/skills/bitwarden-android-claude-skills-reviewing-changes-skill-md | reviewing-changes - Agent Skill by bitwarden | SkillsMP
+https://skillsmp.com/skills/udecode-dotai-claude-plugin-plugins-plan-skills-brainstorming-skill-md | brainstorming - Agent Skill by udecode | SkillsMP
+https://skillsmp.com/skills/wshobson-agents-plugins-backend-development-skills-architecture-patterns-skill-md | architecture-patterns - Agent Skill by wshobson | SkillsMP
+https://skillsmp.com/skills/wshobson-agents-plugins-documentation-generation-skills-architecture-decision-records-skill-md | architecture-decisio... - Agent Skill by wshobson | SkillsMP
+https://github.com/lst97/claude-code-sub-agents/blob/main/agents/infrastructure/cloud-architect.md | claude-code-sub-agents/agents/infrastructure/cloud-architect.md at main · lst97/claude-code-sub-agents
+https://github.com/K-Dense-AI/claude-scientific-skills/tree/main | K-Dense-AI/claude-scientific-skills: A set of ready to use scientific skills for Claude
+https://github.com/masharratt/claude-flow-novice/blob/main/.claude/skills/cfn-loop-orchestration-v2/lib/decision/SKILL.md | claude-flow-novice/.claude/skills/cfn-loop-orchestration-v2/lib/decision/SKILL.md at main · masharratt/claude-flow-novice
+https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices#avoid-deeply-nested-references | Skill authoring best practices - Claude Docs
+https://www.jindage.com/archives/4697 | 告别AI味儿：5个让AI“说人话”的写作技巧，让文章充满灵魂 - 金大哥Ai
+https://harborframework.com/docs/core-concepts | Core Concepts
+https://github.com/anthropics/claude-code/blob/main/plugins/ralph-wiggum/README.md | claude-code/plugins/ralph-wiggum/README.md at main · anthropics/claude-code
+https://github.com/frankbria/ralph-claude-code/blob/main/templates/PROMPT.md | ralph-claude-code/templates/PROMPT.md at main · frankbria/ralph-claude-code
+https://github.com/vercel-labs/ralph-loop-agent/blob/main/README.md | ralph-loop-agent/README.md at main · vercel-labs/ralph-loop-agent
+https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/blob/main/skills/filesystem-context/SKILL.md | Agent-Skills-for-Context-Engineering/skills/filesystem-context/SKILL.md at main · muratcankoylan/Agent-Skills-for-Context-Engineering
+https://cursor.com/cn/blog/dynamic-context-discovery | 动态上下文发现 · Cursor
+https://mathworld.wolfram.com/Laplacian.html | Laplacian -- from Wolfram MathWorld
+
+https://github.com/search?q=analysis+language%3Amarkdown++path%3A%2F%5Eskills%5C%2F%2F+&type=code | Code search results
+https://github.com/aj-geddes/useful-ai-prompts/blob/main/prompts/creativity-innovation/idea-generation-expert.md | useful-ai-prompts/prompts/creativity-innovation/idea-generation-expert.md at main · aj-geddes/useful-ai-prompts
+https://github.com/karpathy/llm-council/tree/master | karpathy/llm-council: LLM Council works together to answer your hardest questions
+https://skillsmp.com/categories/ecommerce-development | E-commerce Development - Claude Skills | SkillsMP
+https://skillsmp.com/skills/pytorch-pytorch-claude-skills-skill-writer-skill-md | skill-writer - Claude Skill by pytorch | SkillsMP
+https://support.claude.com/en/articles/12512198-how-to-create-custom-skills | How to create custom Skills | Claude Help Center
+https://github.com/pytorch/pytorch/blob/main/.claude/skills/at-dispatch-v2/SKILL.md | pytorch/.claude/skills/at-dispatch-v2/SKILL.md at main · pytorch/pytorch
+
+https://skills.intellectronica.net | Skills Supermarket
+https://github.com/catlog22/Claude-Code-Workflow/blob/main/.claude/skills/prompt-enhancer/SKILL.md | Claude-Code-Workflow/.claude/skills/prompt-enhancer/SKILL.md at main · catlog22/Claude-Code-Workflow
+https://github.com/search?q=photo++path%3A%2F%5Eskills%5C%2F%2F++language%3Amarkdown+&type=code | Code search results
+https://github.com/russbeye/claude-memory-bank/blob/92b878f09a1facad9301b11a362a02ea1311bb6f/agents/code-knowledge.md | claude-memory-bank/agents/code-knowledge.md at 92b878f09a1facad9301b11a362a02ea1311bb6f · russbeye/claude-memory-bank
+https://github.com/obra/superpowers/blob/main/skills/brainstorming/SKILL.md | superpowers/skills/brainstorming/SKILL.md at main · obra/superpowers
+
+https://open.larkoffice.com/document/mcp_open_tools/ttmate | TTMate：飞书智能助理 - MCP - 开发文档 - 飞书开放平台
+https://eugeneyan.com/writing/aireadingclub/ | Building AI Reading Club: Features & Behind the Scenes
+https://github.com/intellectronica/skillz/blob/main/README.md | skillz/README.md at main · intellectronica/skillz
+https://skills.intellectronica.net | Skills Supermarket
+https://github.com/search?q=kitex++path%3A%2F%5Eskills%5C%2F%2F+&type=code | Code search results
+https://github.com/CuriousLearner/devkit/tree/3fa45b7ab3438ce5982247348eeafb9206c78f3b | CuriousLearner/devkit at 3fa45b7ab3438ce5982247348eeafb9206c78f3b
+https://github.com/CsHeng/dot-claude/blob/77c44ef26457929b91f1570d9f1e91d15f07231e/docs/llm-philosophy.md | dot-claude/docs/llm-philosophy.md at 77c44ef26457929b91f1570d9f1e91d15f07231e · CsHeng/dot-claude
+https://github.com/sst/opencode/issues/3235 | Support for "Skills" · Issue #3235 · sst/opencode
+https://blog.fsck.com/2025/10/27/skills-for-openai-codex/ | Porting Skills (and Superpowers) to OpenAI Codex
+https://levelup.gitconnected.com/reverse-engineering-claude-code-how-skills-different-from-agents-commands-and-styles-b94f8c8f9245?gi=d65021dac550 | Reverse Engineering Claude Code: How Skills different from Agents, Commands and Styles | by Vuong Ngo | Oct, 2025 | Level Up Coding
+https://skills.deeptoai.com/zh/docs/ai-ml/claude-agent-skills-first-principles-deep-dive | Claude Agent Skills：第一性原理深度解析
+https://github.com/search?q=repo%3Aanthropics%2Fclaude-code+skill&type=code | Code search results
+https://www.eesel.ai/blog/skills-vs-subagent | Claude Skills vs Subagent: What’s the difference? - eesel AI
+https://x.com/axtrur/status/1989882372259725527 | axtrur on X: "按Skill的方式撸一个类似trae的agent模式的chatbot，支持3种模式的skill driver（headless, component, iframe ), 右边截图是一个component driver，chat client composer跟skill之间交互获取技能以及技能工具，实现前后端协同tool loop （也就是可以执行本地skill driver的tool） 技术栈：ai-sdk + https://t.co/HPKaPscPH6" / X
+https://github.com/yusufkaraaslan/Skill_Seekers | yusufkaraaslan/Skill_Seekers: Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
+https://github.com/memodb-io/Acontext | memodb-io/Acontext: One Place for Agents to Store, Observe, and Learn. Context Data Platform for Self-learning Agents, making context engineering and agent improvement straightforward.
+
+https://speech.ee.ntu.edu.tw/~hylee/GenAI-ML/2025-fall.php | Introduction to GenAI and ML 2025 Fall
+https://github.com/MagicCube/deer-code/blob/main/src/deer_code/prompts/templates/coding_agent.md | deer-code/src/deer_code/prompts/templates/coding_agent.md at main · MagicCube/deer-code
+https://skillshunt.io/skills/anthropic/mcp-builder | MCP Builder | SkillsHunt
+https://www.anthropic.com/research/introspection | Emergent introspective awareness in large language models \ Anthropic
+https://www.anthropic.com/engineering/code-execution-with-mcp | Code execution with MCP: building more efficient AI agents \ Anthropic
+https://zhuanlan.zhihu.com/p/590502154 | 教程｜Kronecker积与Kronecker分解 - 知乎
+https://huggingface.co/shareAI | shareAI (shareAI)
+
+https://github.com/meta-prompting/meta-prompting | meta-prompting/meta-prompting: Official implementation of paper "Meta Prompting for AI Systems" (https://arxiv.org/abs/2311.11482)
+https://www.prompthub.us/blog/a-complete-guide-to-meta-prompting | A Complete Guide to Meta Prompting
+https://cchistory.mariozechner.at | cchistory - Claude Code Version History
+https://www.youtube.com/watch?v=TigfpYPJk1s&list=PLJV_el3uVTsMMGi5kbnKP5DrDHZpTX0jT&index=3 | 【生成式人工智慧與機器學習導論2025】第１講：一堂課搞懂生成式人工智慧的原理 - YouTube
+https://www.youtube.com/watch?v=9HPsz7F0mJg | 【生成式AI時代下的機器學習(2025)】第十講：人工智慧的微創手術 — 淺談 Model Editing - YouTube
+https://github.com/langchain-ai/how_to_fix_your_context/blob/main/notebooks/02-tool-loadout.ipynb | how_to_fix_your_context/notebooks/02-tool-loadout.ipynb at main · langchain-ai/how_to_fix_your_context
+https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html | How to Fix Your Context
+https://www.alphaxiv.org/abs/2502.12110v11 | A-MEM: Agentic Memory for LLM Agents | alphaXiv
+https://github.com/agiresearch/A-mem | agiresearch/A-mem: A-MEM: Agentic Memory for LLM Agents
+https://www.anthropic.com/engineering/claude-think-tool | The "think" tool: Enabling Claude to stop and think \ Anthropic
+https://github.com/okamyuji/conversation-system/blob/main/app/conversation_redis_manager.py#L481 | conversation-system/app/conversation_redis_manager.py at main · okamyuji/conversation-system
+https://github.com/DannyMac180/mcp-think-tool/blob/main/src/think_tool/server.py | mcp-think-tool/src/think_tool/server.py at main · DannyMac180/mcp-think-tool
+https://chromewebstore.google.com/detail/better-history-manage-exp/egehpkpgpgooebopjihjmnpejnjafefi | Better History | Manage, Export & Delete History - Chrome Web Store
+https://tkstorm.com/2024/07/%E5%B7%A5%E7%A8%8B%E7%B4%A0%E5%85%BB%E5%B0%8F%E7%BB%9310x%E7%A8%8B%E5%BA%8F%E5%91%98-10x%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%9C%AD%E8%AE%B0/#43-%E8%BF%90%E8%90%A5%E8%83%BD%E5%8A%9B | 工程素养小结、10x程序员、-10x工程师札记 • 🌟思维风暴
+https://github.com/deepseek-ai/DeepSeek-OCR/tree/main?tab=readme-ov-file#transformers-inference | deepseek-ai/DeepSeek-OCR: Contexts Optical Compression
+https://github.com/langchain-ai/how_to_fix_your_context?tab=readme-ov-file | langchain-ai/how_to_fix_your_context
+https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html | How to Fix Your Context
+
+https://arxiv.org/abs/2509.04394 | [2509.04394] Transition Models: Rethinking the Generative Learning Objective
+https://www.youtube.com/watch?v=yiFkhDbXVnQ | 怎么奴役一千人 帝王术的理论与应用 (完整版) | 讲故事 | 統治 | 公有制 | 权力本质 | - YouTube
+https://emergeuk.com/2022/12/13/are-you-living-or-just-existing-%E2%80%92-and-if-you-arent-living-what-are-you-waiting-for/ | Are You Living, Or Just Existing?
+https://shashank7-iitd.medium.com/understanding-vector-quantized-variational-autoencoders-vq-vae-323d710a888a | Understanding Vector Quantized Variational Autoencoders (VQ-VAE) | by Shashank Yadav | Medium
+https://avdnoord.github.io/homepage/vqvae/ | Aäron van den Oord ·
+https://github.com/kelisiWu123/cursor-rules-wizard/tree/main | kelisiWu123/cursor-rules-wizard: .cursorrules template
+
+https://www.reddit.com/r/StableDiffusion/comments/1nab7ac/any_way_to_extract_poses_from_photo/ | Any way to Extract poses from photo? : r/StableDiffusion
+https://pkg.go.dev/modernc.org/tk9.0#section-readme | tk9_0 package - modernc.org/tk9.0 - Go Packages
+https://zhuanlan.zhihu.com/p/110483334 | 【数学】小波变换 - 知乎
+https://zhuanlan.zhihu.com/p/44217268 | 小波变换完美通俗讲解系列之 （二） - 知乎
+https://zhuanlan.zhihu.com/p/44215123 | 小波变换完美通俗讲解系列之 （一） - 知乎
+https://www.zhihu.com/question/22864189/answer/40772083 | 如何通俗地讲解傅立叶分析和小波分析间的关系？ - 知乎
+https://users.rowan.edu/~polikar/WTpart2.html | Wavelet Tutorial - Part 2
+https://x.com/Hasen_Judi | (5) Hasen Judi (@Hasen_Judi) / X
+
+https://medium.com/@geronimo7/training-a-latent-diffusion-model-from-scratch-897c7b77ece9 | Training a Latent Diffusion Model From Scratch | by Geronimo | Medium
+https://www.reddit.com/r/golang/comments/1n6z12n/go_and_video_conversion/ | Go and video conversion : r/golang
+https://github.com/asticode/go-astiav/tree/master?tab=readme-ov-file | asticode/go-astiav: Golang ffmpeg and libav C bindings
+
+https://github.com/LinYuanovo/AutoTaskScripts/blob/main/app/%E6%AC%A1%E5%85%83%E5%A7%AC%E5%B0%8F%E8%AF%B4.py | AutoTaskScripts/app/次元姬小说.py at main · LinYuanovo/AutoTaskScripts
+https://github.com/Aruelius/wenshushu/tree/master | Aruelius/wenshushu: 基于 https://www.wenshushu.cn （文叔叔） 上传与下载文件的 Python 脚本
+https://github.com/pehringer/simd/blob/main/internal/neon/AddInt64_arm64.s | simd/internal/neon/AddInt64_arm64.s at main · pehringer/simd
+https://go.dev/doc/asm | A Quick Guide to Go's Assembler - The Go Programming Language
+https://github.com/minio/c2goasm | minio/c2goasm: C to Go Assembly
+https://github.com/datawhalechina/llm-research | datawhalechina/llm-research
+https://github.com/datawhalechina/so-large-lm/blob/main/docs/content/ch03.md | so-large-lm/docs/content/ch03.md at main · datawhalechina/so-large-lm
+https://tomohiroliu22.medium.com/66%E5%80%8B%E5%A4%A7%E5%9E%8B%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8Bllm%E7%B6%93%E5%85%B8%E8%AB%96%E6%96%87-0fcdab74e822 | 66個大型語言模型LLM經典論文. 去年ChatGPT的發布，帶動了大型語言模型(Large Language… | by 劉智皓 (Chih-Hao Liu) | Medium
+https://github.com/kelindar/simd/tree/main | kelindar/simd: Package with auto-vectorized math functions for Go
+https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/ | What Is ChatGPT Doing … and Why Does It Work?—Stephen Wolfram Writings
+https://python.langchain.com/docs/concepts/why_langchain/ | Why LangChain? | 🦜️🔗 LangChain
+https://lilianweng.github.io/posts/2023-06-23-agent/ | LLM Powered Autonomous Agents | Lil'Log
+https://www.datawhale.cn/learn/content/2/74 | 吃瓜教程：南瓜书 PumpkinBook-课程详情 | Datawhale
+
+https://github.com/search?q=google%2Fs2geometry&type=code&p=2 | Code search results
+https://github.com/rwengine/librwgta/blob/79850b4e5ab5e114aaf12761e2ddc203d442954b/tools/storiesconv/rsl.cpp#L286 | librwgta/tools/storiesconv/rsl.cpp at 79850b4e5ab5e114aaf12761e2ddc203d442954b · rwengine/librwgta
+
+https://lib.rs/crates/cxx-async | cxx-async — system library interface for Rust // Lib.rs
+https://github.com/RoaringBitmap/RoaringBitmap | RoaringBitmap/RoaringBitmap: A better compressed bitset in Java: used by Apache Spark, Netflix Atlas, Apache Pinot, Tablesaw, and many others
+https://github.com/RoaringBitmap/roaring | RoaringBitmap/roaring: Roaring bitmaps in Go (golang), used by InfluxDB, Bleve, DataDog
+https://tech.meituan.com/2022/11/17/elasicsearch-optimization-practice-based-on-run-length-encoding.html | 美团外卖搜索基于Elasticsearch的优化实践 - 美团技术团队
+https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools | x1xhlol/system-prompts-and-models-of-ai-tools: FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
+
+https://tech.meituan.com/2022/11/17/elasicsearch-optimization-practice-based-on-run-length-encoding.html | 美团外卖搜索基于Elasticsearch的优化实践 - 美团技术团队
+https://tech.meituan.com/2024/12/26/2024-happy-new-year-top10.html | 2024 | 美团技术团队热门技术文章汇总 - 美团技术团队
+https://linebender.org/blog/towards-fearless-simd/ | Towards fearless SIMD, 7 years later - Linebender
+
+https://github.com/DefTruth/CUDA-Learn-Notes/tree/main?tab=readme-ov-file#cuda-kernel-hard-plus | DefTruth/CUDA-Learn-Notes: 📚200+ Tensor/CUDA Cores Kernels, ⚡️flash-attn-mma, ⚡️hgemm with WMMA, MMA and CuTe (98%~100% TFLOPS of cuBLAS/FA2 🎉🎉).
+https://www.php.cn/faq/721700.html | CUDA之通用矩阵乘法：从入门到熟练！-人工智能-PHP中文网
+https://oneflow2020.medium.com/how-to-implement-an-efficient-softmax-cuda-kernel-oneflow-performance-optimization-sharing-405ad56e9031 | How to Implement an Efficient Softmax CUDA Kernel— OneFlow Performance Optimization | by OneFlow | Medium
+https://github.com/DefTruth/Awesome-LLM-Inference?tab=readme-ov-file#LLM-Algorithmic-Eval-Survey | DefTruth/Awesome-LLM-Inference: 📖A curated list of Awesome LLM/VLM Inference Papers with codes: WINT8/4, Flash-Attention, Paged-Attention, Parallelism, etc. 🎉🎉
+
+https://medium.com/@philbrainy/go-slices-demystified-a-deep-dive-into-memory-layout-and-behavior-59cffd1a49ca | medium.com
+https://www.cnblogs.com/ghj1976/p/wen-ding-xing-bao-zhang-fang-fa-lun.html | 稳定性保障方法论 - 蝈蝈俊 - 博客园
+https://www.cnblogs.com/crazypigf/p/17286929.html | 机器学习数学基础之矩阵求导 - crazypigf - 博客园
+
+https://github.com/opendatalab/MinerU | github.com
+https://www.reddit.com/r/comfyui/comments/1eptnz5/how_low_can_you_go_fluxdev_low_step_size/ | How low can you go? Flux-Dev low step size comparison : r/comfyui
+https://www.reddit.com/r/comfyui/comments/1elq2rk/fluxdev_samplers_and_schedulers_comparison/ | Flux-dev samplers and schedulers comparison : r/comfyui
+
+https://quanru.github.io/2023/07/08/Building%20my%20second%20brain%20%F0%9F%A7%A0%20with%20Obsidian/ | Building my second brain 🧠 with Obsidian - 林宜丙的博客
+https://fortelabs.com/blog/para/ | The PARA Method: The Simple System for Organizing Your Digital Life in Seconds
+https://docs.nvidia.com/vpi/sample_fisheye.html#sample_fisheye_code | VPI - Vision Programming Interface: Fisheye Distortion Correction
+https://wordnet.princeton.edu/download/current-version | Current Version | WordNet
+https://github.com/kajweb/dict?tab=readme-ov-file | kajweb/dict: 英语字典 英语词库 字典词库 四级单词 六级单词 考研单词 雅思 托福 SAT GMAT TOEFL GRE
+https://github.com/mahavivo/english-wordlists | mahavivo/english-wordlists: 常用英语词汇表
+
+https://blog.csdn.net/wudiazu/article/details/79565174 | 高效的多维空间点索引算法 — Geohash 和 Google S2_google hash算法-CSDN博客
+https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-shape-query.html | Shape query | Elasticsearch Guide [8.14] | Elastic
+https://geomywp.com/extensions/nearby-locations/ | Nearby Locations • GEO my WP
+
+https://tech.meituan.com/2014/09/02/solr-spatial-search.html | Solr空间搜索原理分析与实践 - 美团技术团队
+https://kriszhang.com/geohash/ | 关于周边位置搜索的小结 - Kris的博客 | Kris' Blog
+https://blog.csdn.net/v_JULY_v/article/details/6530142/ | 从B树、B+树、B*树谈到R 树-CSDN博客
+https://blog.csdn.net/zhouxuguang236/article/details/7898272 | R树空间索引_r树 sqlite3-CSDN博客
+https://www.cnblogs.com/LBSer/category/575692.html | 空间索引原理 - 随笔分类 - zhanlijun - 博客园
+https://www.cnblogs.com/LBSer/p/4471742.html | 地理围栏算法解析（Geo-fencing） - zhanlijun - 博客园
+
+https://tech.meituan.com//page/28.html | 美团技术团队
+https://tech.meituan.com/2019/02/21/rd-team-resource-cost-optimization-practice.html | 研发团队资源成本优化实践 - 美团技术团队
+https://tech.meituan.com/2018/05/31/waimai-client-high-availability.html | 美团外卖客户端高可用建设体系 - 美团技术团队
+https://tech.meituan.com/2019/09/19/common-method-of-reduce-complexity.html | 降低软件复杂性一般原则和方法 - 美团技术团队
+
+https://huggingface.co/docs/diffusers/en/quicktour | Quicktour
+https://www.aminer.cn/pub/65f3abd913fb2c6cf6612a9a/exploring-the-comprehension-of-chatgpt-in-traditional-chinese-medicine-knowledge | Exploring the Comprehension of ChatGPT in Traditional Chinese Medicine Knowledge - AMiner
+https://www.aminer.cn/profile/huang-shaohan/5432d684dabfaeb370bd6977 | Shaohan Huang - Microsoft Research Lab – Asia | 人才画像 - AMiner
+https://www.aminer.cn/pub/59ae3c262bbe271c4c71e9d9/superagent-a-customer-service-chatbot-for-e-commerce-websites | Superagent: A Customer Service Chatbot For E-Commerce Websites - AMiner
+https://www.aminer.cn/profile/li-yizhen/63272360a95e4d1d055471a6 | Yizhen Li - State Key Lab Dampness Syndrome Chinese Med, Guangzhou Univ Chinese Med | 人才画像 - AMiner
+https://medium.com/@rohithramesh1991/unsupervised-text-clustering-using-natural-language-processing-nlp-1a8bc18b048d | Unsupervised-Text-Clustering using Natural Language Processing(NLP) | by ROHITH RAMESH | Medium
+
+https://colab.research.google.com/drive/1mm67_irYu3qU3hnfzqK5yQC38Fd5UFam?usp=sharing#scrollTo=xiDr0zU3tAbR | MLFS_Build_Your_StableDiffusion_in_a_Notebook.ipynb - Colab
+https://tarunjain07.medium.com/geospatial-geohash-notes-15cbc50b329d#c775 | Geospatial | GeoHash | R-Tree | QuadTree | by Tarun Jain | Medium
+https://juejin.cn/post/7167260663621320734 | 美团外卖搜索基于Elasticsearch的优化实践 - 掘金
+
+https://doc.rust-lang.org/rust-by-example/scope/borrow.html#borrowing | Borrowing - Rust By Example
+https://blog.nobugware.com/post/2018/wasm_go_s2_javascript/ | Wasm with Go to build an S2 cover map viewer - Fabrice Aneche
+https://croz.net/news/xfrm-programming/ | XFRM Programming - CROZ
+https://jyos-sw.medium.com/linux-xfrm-intro-d83bc7cb6608 | Linux XFRM Intro. There is lot to know about Linux, Linux… | by Jyothi | Medium
+
+https://github.com/igorgatis/ws2/blob/master/main.go | ws2/main.go at master · igorgatis/ws2
+https://plantegg.github.io/2021/05/14/%E5%8D%81%E5%B9%B4%E5%90%8E%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%98%E6%98%AF%E4%B8%8D%E6%95%A2%E6%8B%A5%E6%8A%B1NUMA/ | 十年后数据库还是不敢拥抱NUMA？ | plantegg
+https://github.com/FelixFu520/README/blob/main/train/optim/matrix_bp.md | README/train/optim/matrix_bp.md at main · FelixFu520/README
+
+
